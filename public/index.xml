@@ -1,0 +1,10 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Jack Bucinskas</title>
+        <link>https://bucinskas.net/</link>
+        <description>Jack Bucinskas</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>jack@bucinskas.net (Jack Bucinskas)</managingEditor>
+            <webMaster>jack@bucinskas.net (Jack Bucinskas)</webMaster>
+            <atom:link href="https://bucinskas.net/index.xml" rel="self" type="application/rss+xml" />
+        </channel>
+</rss>
