@@ -18,8 +18,7 @@ theme = "LoveIt"
   # site default theme ("light", "dark", "auto")
   defaultTheme = "dark"
   # public git repo url only then enableGitInfo is true
-  # gitRepo = "https://github.com/jackbucinskas/bucinskas.net"
-  # enableGitInfo = true   
+  # gitRepo = ""
   #  which hash function used for SRI, when empty, no SRI is used
   # ("sha256", "sha384", "sha512", "md5")
   fingerprint = ""
@@ -319,7 +318,7 @@ theme = "LoveIt"
       fullscreen = true
     #  social share links in post page
     [params.page.share]
-      enable = true
+      enable = false
       Twitter = true
       Facebook = true
       Linkedin = false

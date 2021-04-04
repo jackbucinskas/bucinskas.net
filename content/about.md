@@ -7,13 +7,14 @@ math: true
 lightgallery: true
 ---
 
-I am a Computer Science Graduate, I completed my studies at the University of Wollongong. I have a very strong interest in automation, server/system administration, NGINX, Docker, Open Source Software, React.js and the Node.js runtime.
+I am a Computer Science Graduate, I completed my studies at the University of Wollongong in 2018-2020. I have developed a very strong interest in infrastructure, automation and server/system administration.
 
 <!-- ![Header](/images/about/header.png) -->
 
 ## Career Objective Statement
 
-* Participate and contribute to beneficial services that will impact the community through permanent Information Technology solutions, strategies and programs.
+* To participate and contribute to beneficial services that will impact the community through effective Information
+Technology solutions, strategies and programmes.
 
 
 ## Skillset
@@ -33,4 +34,4 @@ I am vastly proficient in a large number of technologies. My career has allowed 
 ## Projects
 
 * :(fab fa-github fa-fw):  All of my projects are on my [GitHub Profile](https://github.com/jackbucinskas/) or available through [GitHub Gists](https://gist.github.com/jackbucinskas/).
-* :(fas fa-code):  Please view the [Projects](/posts/) section of my website to view my detailed write-ups about the new things in my life, and the technologies I've been exploring.
+* :(fas fa-code):  Please view the [Posts](/posts/) section of my website to view my detailed write-ups about the new things in my life, and the technologies I've been exploring.
