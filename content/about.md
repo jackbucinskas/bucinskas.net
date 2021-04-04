@@ -32,5 +32,5 @@ I am vastly proficient in a large number of technologies. My career has allowed 
 
 ## Projects
 
-* :(fab fa-github fa-fw):  All of my projects are on my [GitHub Profile](https://github.com/jackbucinskas/).
+* :(fab fa-github fa-fw):  All of my projects are on my [GitHub Profile](https://github.com/jackbucinskas/) or available through [GitHub Gists](https://gist.github.com/jackbucinskas/).
 * :(fas fa-code):  Please view the [Projects](/posts/) section of my website to view my detailed write-ups about the new things in my life, and the technologies I've been exploring.
