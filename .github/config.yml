@@ -8,7 +8,7 @@ jobs:
       - checkout
       - run: git submodule sync
       - run: git submodule update --init
-      - run: hugo --source=exampleSite -v --gc
+      - run: hugo --source=jackbucinskas -v --gc
       - run: htmlproofer jackbucinskas/public --check-html --allow-hash-href --empty-alt-ignore --disable-external
 
 workflows:
