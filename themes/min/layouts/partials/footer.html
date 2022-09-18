@@ -1,0 +1,12 @@
+<footer>
+	<pre>
+&copy; 2021 - {{ now.Format "2006" }}
+{{- if $.GitInfo -}}
+<br>commit: <a href="https://github.com/jackbucinskas/www/commit/{{ .GitInfo.Hash }}" rel="noopener">{{ .GitInfo.AbbreviatedHash }}</a> @ <time datetime="{{ .Page.Lastmod.Format "Mon Jan 10 17:13:38 2020 +1000" }}" class="text-muted">
+{{ $.Page.Lastmod.Format "January 02, 2006" }}
+</time>
+{{- else -}}
+<br>last modified: <time datetime="{{ .Page.Lastmod.Format "Mon Jan 10 17:13:38 2020 +1000" }}" class="text-muted">{{ $.Page.Lastmod.Format "January 02, 2006" }}
+{{- end -}}
+</pre>
+</footer>

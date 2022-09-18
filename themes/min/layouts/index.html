@@ -1,0 +1,21 @@
+{{ define "main" }}
+
+<body class="">
+
+    <div>
+        <pre>
+Hi, I am Jack Bucinskas
+
+~/ $ ls
+<a href="/jackbucinskas.pdf"><i class="fa fa-file"></i>Resume</a> <a href="https://github.com/jackbucinskas/"><i class="fa fa-github"></i>GitHub</a> <a href="https://www.linkedin.com/in/jackbucinskas/"><i class="fa fa-linkedin"></i>LinkedIn</a> <a href="mailto:jack@bucinskas.net"><i class="fa fa-envelope"></i>E-mail</a>
+
+{{- if $.GitInfo -}}
+{{.GitInfo | jsonify}}
+{{- else -}}
+{{- end -}}
+
+</pre>
+    </div>
+
+</body>
+{{ end }}
